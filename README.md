@@ -29,7 +29,7 @@ To run this website locally, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/big-sis-website.git
+   git clone (https://github.com/favoursed)
    ```
 2. **Navigate to the Project Directory:**
    ```
@@ -49,7 +49,7 @@ To run this website locally, follow these steps:
    or if a different command is used, replace accordingly.
 
 5. **Open Your Browser:**
-   Open your web browser and go to `http://localhost:3000` to view the website locally.
+   Open your web browser and go to (https://github.com/favoursed/Sis-Uju-Birthday-page) to view the website locally.
 
 ### Usage
 
